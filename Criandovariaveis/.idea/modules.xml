@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Criandovariaveis.iml" filepath="$PROJECT_DIR$/Criandovariaveis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/variaveisjava/variaveisjava.iml" filepath="$PROJECT_DIR$/variaveisjava/variaveisjava.iml" />
+    </modules>
+  </component>
+</project>
